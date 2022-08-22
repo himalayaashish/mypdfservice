@@ -8,7 +8,7 @@ from flask import jsonify
 
 app = Flask(__name__)
 result = {}
-@app.route('/post', methods=['GET','POST'])
+@app.route('/', methods=['GET','POST'])
 def post_route():
     if request.method == 'POST':
 

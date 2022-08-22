@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'pdfappservice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8EA90FA94F342AC8375A3CAFBB19CFB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA121A54FD1943419F5F4C57A296F260 }}

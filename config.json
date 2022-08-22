@@ -1,0 +1,7 @@
+{
+  "params": {
+    "upload_location": "./UPLOAD_FOLDER",
+    "endpoint" : "https://frpdf.cognitiveservices.azure.com/",
+    "key" : "1ee5d5cdbeb24d77abefbd48841bd345"
+  }
+}
